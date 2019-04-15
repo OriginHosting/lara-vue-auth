@@ -13,3 +13,9 @@ A repo for laravel vue authentication tutorial.
 	`php artisan serve`
 	
 Full details here: https://codeburst.io/api-authentication-in-laravel-vue-spa-using-jwt-auth-d8251b3632e0
+
+Have to use modified beta of JWTAuth 
+https://github.com/tymondesigns/jwt-auth/issues/1764
+
+Have to see here for fixes for using the beta auth package. 
+https://github.com/tymondesigns/jwt-auth/issues/1038
