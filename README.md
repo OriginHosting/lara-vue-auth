@@ -19,3 +19,6 @@ https://github.com/tymondesigns/jwt-auth/issues/1764
 
 Have to see here for fixes for using the beta auth package. 
 https://github.com/tymondesigns/jwt-auth/issues/1038
+
+https://github.com/tymondesigns/jwt-auth/issues/1298
+Final solution at bottom.
